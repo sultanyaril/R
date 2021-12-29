@@ -1,0 +1,11 @@
+Example & Comparison of RF and DT:
+https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/
+
+Code for GAS consumption:
+https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
+
+Decision Tree:
+https://loginom.ru/blog/decision-tree-p1
+
+Pros and Cons:
+https://habr.com/ru/company/ods/blog/324402/
